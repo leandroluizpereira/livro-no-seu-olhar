@@ -1,0 +1,35 @@
+
+
+body{
+    background-color: rgb(223, 243, 252);
+}
+main{
+    margin: auto;
+    width: 500px;
+    height: auto;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.descricao{
+    margin:10px auto ;
+    width: 400px;
+    height: auto;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.pdest{
+    background-color: yellow;
+    border-radius: 10px;
+}
+.foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagem{
+ 
+    width: 150px;
+}
